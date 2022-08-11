@@ -73,7 +73,7 @@ print(a,b)
 #print("is",a, "in an instance of:",b,"?",c)
 
 
-""""
+"""
 a = 123
 b = int
 c = isinstance(a, b)
@@ -99,8 +99,8 @@ a = "how are you?"
 b = float
 c = isinstance(a, b)
 print("is",a, "in an instance of float",c)
-"""
 
+"""
 
 
 
